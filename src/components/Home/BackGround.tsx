@@ -16,3 +16,5 @@ export default function BackGround({ isVideo, isImage, src, para, heading, link,
     </div>
   );
 }
+
+
